@@ -6,7 +6,7 @@ UGFind is a **UG-themed Lost and Found mobile app** designed to help students at
 
 ## 📚 Final Project for DCIT 202
 
-This project was developed as the **final project submission for the DCIT 202 course** at the University of Ghana. It demonstrates skills in mobile app development, backend integration, user authentication, and database management tailored for campus needs.
+This project was developed as the **final project submission for the DCIT 202 course** . It demonstrates skills in mobile app development, backend integration, user authentication, and database management tailored for campus needs.
 
 ---
 
