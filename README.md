@@ -32,7 +32,7 @@ This project was developed as the **final project submission for the DCIT 202 co
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 📦 Prerequisites
 
